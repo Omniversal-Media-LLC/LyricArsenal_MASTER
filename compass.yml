@@ -1,0 +1,16 @@
+name: LyricArsenal_MASTER
+id: ari:cloud:compass:98f239cf-fa04-4e2c-9e89-76b3496a9eb7:component/a3221818-8bba-4a60-9c87-7791b8e38c12/b1339785-fc5f-4086-a6a5-3b615c7c9a08
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Omniversal-Media-LLC/LyricArsenal_MASTER
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
